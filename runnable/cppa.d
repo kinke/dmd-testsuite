@@ -1,5 +1,6 @@
 // PERMUTE_ARGS: -g
 // EXTRA_CPP_SOURCES: cppb.cpp
+// REQUIRED_ARGS: -L/FORCE:MULTIPLE
 
 import core.stdc.stdio;
 import core.stdc.stdarg;
